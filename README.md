@@ -35,5 +35,5 @@ Add flair to your profile with custom badges:
 
 ## 🔥 Snake Animation  
 Here’s a cool animated visual for your contribution graph:  
-![Snake Contribution Graph](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg)
+##![Snake Contribution Graph](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg)
 
