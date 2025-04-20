@@ -1,7 +1,7 @@
 
 Got it! Here's your updated README file for your GitHub profile, completely tailored to you:
 
-Hi! 👋 I'm Rikin
+Hi! 👋 I'm Rikin Shah
 <!-- Typing Effect -->
 
 <div align="center"><kbd><img src="https://media.giphy.com/media/l0HlQZQqcbgXIFiQo/giphy.gif" width="500" height="300"></kbd></div>
