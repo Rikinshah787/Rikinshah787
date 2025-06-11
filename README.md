@@ -1,7 +1,6 @@
-<!-- Typing effect with shields.io fallback message -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Rikin+Shah+👋;Full-stack+Engineer+%26+Project+Manager;Certified+Scrum+Master+%7C+SAP+%7C+Chess+Instructor" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  👋 Hi there! I'm <span style="color:#f39c12;">Rikin Shah</span>
+</h1>
 
 <p align="center">
 🎓 Graduate student @ ASU (MS in IT Project Management)<br>
