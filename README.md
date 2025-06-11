@@ -1,10 +1,17 @@
-<h1 align="center">Hi there, I'm Rikin Shah 👋</h1>
+<!-- Typing effect with shields.io fallback message -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Rikin+Shah+👋;Full-stack+Engineer+%26+Project+Manager;Certified+Scrum+Master+%7C+SAP+%7C+Chess+Instructor" alt="Typing SVG" />
+</p>
 
 <p align="center">
 🎓 Graduate student @ ASU (MS in IT Project Management)<br>
 🧠 Certified Scrum Master | SAP Analytics | Full-stack Dev<br>
 ♟️ Chess Instructor | Founder @ SmartKid Academy | USCF Rated 1792<br>
-🌐 <a href="https://www.rikin.tech">www.rikin.tech</a> | 💼 <a href="https://www.linkedin.com/in/rikinshah787">LinkedIn</a> | 🧠 <a href="https://github.com/yourGitHubUsername">GitHub</a>
+🌐 <a href="https://www.rikin.tech">www.rikin.tech</a> | 💼 <a href="https://www.linkedin.com/in/rikinshah787">LinkedIn</a> | 🧠 <a href="https://github.com/rikinshah787">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rikinshah787&label=Profile+views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -16,7 +23,7 @@
 ![PLSQL](https://img.shields.io/badge/-PLSQL-333?style=flat&logo=oracle)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
-![Java](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![Vite](https://img.shields.io/badge/-Vite-333?style=flat&logo=vite) 
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) 
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3) 
