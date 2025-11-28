@@ -50,6 +50,15 @@
 #### 🎨 UI/UX & Visualization  
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)  
 ![Lucidchart](https://img.shields.io/badge/-Lucidchart-333?style=flat)
+
+#### 🤖 Agentic AI & Automation  
+![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat&logo=python)  
+![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)  
+![LLM Orchestration](https://img.shields.io/badge/-LLM_Orchestration-333?style=flat)  
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-333?style=flat)  
+![Workflow Automation](https://img.shields.io/badge/-Workflow_Automation-333?style=flat&logo=githubactions)  
+![Agentic Platforms](https://img.shields.io/badge/-Agentic_AI_Platforms-333?style=flat)
+
 ---
 
 ### 📊 GitHub Stats
@@ -59,18 +68,32 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikinshah787&layout=compact&theme=radical" />
 </p>
 
+#### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikinshah787&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 Recent Projects
+- **Agentic Resume Optimizer** – Modular AI-driven resume builder with ATS validation & orchestration logic  
+- **Academic Performance Classifier** – Automated Excel/AI pipeline for error-proof student performance reporting  
+- **SmartKid Chess Academy Platform** – Interactive learning dashboards for 200+ students worldwide  
+- **CI/CD Pipeline Automation** – Dockerized workflows with GitHub Actions for scalable deployments  
+- **AI Workflow Orchestration** – Privacy-first agentic automation for distributed platforms  
+
 ---
 
 ### 🌱 I’m currently working on...
-- Building dynamic web dashboards, exploring CI/CD Pipelines using Docker
--  Enhacing skills in SAP Development, Figma for dashboard, and on analytics  
+- Building dynamic web dashboards, exploring CI/CD Pipelines using Docker  
+- Enhancing skills in SAP Development, Figma for dashboard, and analytics  
 - Teaching Java & Python at ASU as a TA  
-- Coaching the next generation of chess champions!
+- Coaching the next generation of chess champions!  
 
 ---
 
 ### ✨ Fun Fact  
-I’ve taught 200+ students, built scalable data pipelines in Deloitte, and taught chess across globe - all before completing grad school!
+I’ve taught 200+ students, built scalable data pipelines in Deloitte, and taught chess across globe - all before completing grad school!  
 
 ---
 
