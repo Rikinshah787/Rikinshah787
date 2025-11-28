@@ -61,19 +61,13 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikinshah787&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikinshah787&layout=compact&theme=radical" />
-</p>
-
 #### 🔥 GitHub Streak
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikinshah787&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rikinshah787&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+
 
 ### 🚀 Recent Projects
 - **Agentic Resume Optimizer** – Modular AI-driven resume builder with ATS validation & orchestration logic  
