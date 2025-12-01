@@ -60,8 +60,6 @@
 ![Agentic Platforms](https://img.shields.io/badge/-Agentic_AI_Platforms-333?style=flat)
 
 ---
-
-#### 🔥 GitHub Streak
 ### 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rikinshah787&theme=radical&hide_border=true" alt="GitHub Streak" />
