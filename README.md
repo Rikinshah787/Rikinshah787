@@ -6,7 +6,7 @@
 🎓 Graduate student @ ASU (MS in IT Project Management)<br>
 🧠 Certified Scrum Master | SAP Analytics | Full-stack Dev<br>
 ♟️ Chess Instructor | Founder @ SmartKid Academy | USCF Rated 1792<br>
-🌐 <a href="https://www.rikin.tech">www.rikin.tech</a> | 💼 <a href="https://www.linkedin.com/in/rikinshah787">LinkedIn</a> | 🧠 <a href="https://github.com/rikinshah787">GitHub</a>
+🌐 <a href="https://www.rikin.tech">www.shahrikin.vercel.app</a> | 💼 <a href="https://www.linkedin.com/in/rikinshah787">LinkedIn</a> | 🧠 <a href="https://github.com/rikinshah787">GitHub</a>
 </p>
 
 <p align="center">
