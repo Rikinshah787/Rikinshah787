@@ -30,6 +30,7 @@
 
 | Project | What it does |
 |---|---|
+| 🚀 **[Heylunem.com](https://heylunem.com)** · _building_ | My latest venture — in active development, launching soon |
 | 🧩 **[JobGrid](https://jobgrid.vercel.app)** | Browser extension unifying 18+ job boards into one dashboard — **350+ downloads** |
 | 🎛️ **IBM Watson Orchestration** | Modular AI platform coordinating 4 autonomous agents — **80%** faster company insights |
 | 📄 **[LLMResume](https://github.com/Rikinshah787/llmresume)** | Flask ATS resume optimizer — PRO mode (Groq LLM) & SMART rule-based keyword injection |
@@ -83,16 +84,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rikinshah787&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0a0f0d" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rikinshah787&hide_border=true&background=0a0f0d&stroke=2ecc71&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+  <a href="https://github.com/Rikinshah787?tab=followers"><img src="https://img.shields.io/github/followers/Rikinshah787?style=for-the-badge&logo=github&label=Followers&labelColor=0a0f0d&color=2ecc71" alt="Followers"/></a>
+  <a href="https://heylunem.com"><img src="https://img.shields.io/badge/Building-Heylunem.com-2ecc71?style=for-the-badge&labelColor=0a0f0d" alt="Building Heylunem"/></a>
+  <a href="https://github.com/Rikinshah787?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-2ecc71?style=for-the-badge&logo=github&labelColor=0a0f0d" alt="Repositories"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikinshah787&layout=compact&langs_count=8&hide_border=true&title_color=2ecc71&text_color=c9d1d9&bg_color=0a0f0d" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rikinshah787&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Rikinshah787&hide_border=true&background=0a0f0d&stroke=2ecc71&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 </p>
 
 ---
