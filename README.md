@@ -1,96 +1,104 @@
-<div align="center">
-
-<img align="right" width="190" src="https://github.com/Rikinshah787.png?size=512" alt="Rikin Shah" />
-
-```text
- ____  ___ _  ___ _ _   _   ____  _   _    _    _   _
-|  _ \|_ _| |/ /_ _| \ | | / ___|| | | |  / \  | | | |
-| |_) || || ' / | ||  \| | \___ \| |_| | / _ \ | |_| |
-|  _ < | || . \ | || |\  |  ___) |  _  |/ ___ \|  _  |
-|_| \_\___|_|\_\___|_| \_| |____/|_| |_/_/   \_\_| |_|
-```
-
-`FINOPS ANALYST // AGENTIC AI BUILDER // PROJECT MANAGER`
-
-```text
-      .-''''-.
-    .'  _  _  '.     [ AVATAR ONLINE ]
-   /   (o)(o)   \    cloud + AI + product
-  |       ^      |   signal: building
-  |    ._____.   |   mode: ship it
-   \   '-----'  /
-    '.       .'
-      '-...-'
-```
-
-[PORTFOLIO](https://shahrikin.vercel.app) | [LINKEDIN](https://www.linkedin.com/in/rikinshah787) | [EMAIL](mailto:rshah88@asu.edu) | [REPOSITORIES](https://github.com/Rikinshah787?tab=repositories)
-
-<img src="https://komarev.com/ghpvc/?username=Rikinshah787&label=PROFILE+SCANS&color=00ff88&style=flat-square" alt="Profile views" />
-
-</div>
-
-```text
-+------------------------------------------------------------------------------+
-| SYSTEM STATUS                                                                |
-+----------------------+-------------------------------------------------------+
-| CALLSIGN             | RIKIN SHAH                                            |
-| BASE                 | SAN FRANCISCO, CA                                     |
-| PRIMARY MISSION      | Turn cloud complexity into useful, measurable systems |
-| CURRENT BUILD        | HEYLUNEM.COM [IN DEVELOPMENT]                         |
-| SIGNAL               | OPEN TO NEW OPPORTUNITIES                             |
-+----------------------+-------------------------------------------------------+
-```
-
-## `whoami`
-
-- FinOps Analyst at Adobe, driving $2.5M+ in AWS and Azure cloud cost savings.
-- Builder of agentic AI systems: multi-agent orchestration, LLM pipelines, and workflow automation.
-- M.S. Information Technology (Project Management), Arizona State University, GPA 4.00.
-- Founder of SmartKid Academy; coached 200+ chess students and hold a USCF rating of 1792.
-
-## `launch --featured-projects`
-
-| ID | PROJECT | DEPLOYMENT |
-| --- | --- | --- |
-| `01` | [Heylunem.com](https://heylunem.com) | Latest venture. Building now. |
-| `02` | [JobGrid](https://jobgrid.vercel.app) | Browser extension unifying 18+ job boards. 350+ downloads. |
-| `03` | IBM Watson Orchestration | Four autonomous agents delivering company insights 80% faster. |
-| `04` | [LLMResume](https://github.com/Rikinshah787/llmresume) | Flask ATS resume optimizer with Groq LLM and rule-based modes. |
-| `05` | ReachAI | Multi-agent outbound engine using Groq Llama 3.1, Hunter.io, SMTP. |
-| `06` | MailAlarm | IMAP inbox watcher that triggers Twilio calls for high-priority senders. |
-| `07` | AgentOS / ClawArmy | Multi-LLM orchestration with shared memory and distributed coordination. |
-| `08` | [TechPortfolio](https://shahrikin.vercel.app) | 3D portfolio with React, TypeScript, Three.js, GSAP, and an AI avatar. |
-
-## `stack --loaded`
-
-```text
-FRONTEND    Next.js | React | TypeScript | Three.js | GSAP
-AI          LangChain | CrewAI | Groq | TensorFlow | n8n
-CLOUD       AWS | Azure | GCP | Snowflake | Databricks | FinOps
-DATA        Python | SQL | PL/SQL | Spark | Kafka | Power BI
-DELIVERY    Git | GitHub | Docker | Jenkins | Azure DevOps
-OPERATIONS  Jira | Confluence | Scrum | SAP BW/4HANA
-```
+<h1 align="center">Hi, I'm Rikin Shah 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <a href="https://shahrikin.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=580&lines=FinOps+Analyst+%40+Adobe;Agentic+AI+Builder+%26+Project+Manager;Certified+Scrum+Master+%7C+FOCP;Turning+cloud+spend+into+savings" alt="Typing SVG" />
+  </a>
 </p>
 
-## `certifications --verified`
+<p align="center">
+  <a href="https://shahrikin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0f0d?style=for-the-badge&logo=vercel&logoColor=2ecc71" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/rikinshah787"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rshah88@asu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Rikinshah787&label=Profile+views&color=2ecc71&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-`FOCP - FinOps Certified Practitioner` `Certified Scrum Master (CSM)` `AWS Cloud Architecting` `AWS Cloud Operations` `Databricks Fundamentals` `SAP Fundamentals` `GenAI in Project Management`
+---
 
-<div align="center">
+### 🧠 About Me
 
-```text
-[ READY ]  Design the system. Measure the impact. Ship the result.
-```
+- 💼 **FinOps Analyst @ Adobe** — driving **$2.5M+** in AWS & Azure cloud cost savings
+- 🤖 Building **agentic AI** platforms — multi-agent orchestration, LLM pipelines & workflow automation
+- 🎓 **M.S. in Information Technology (Project Management)** @ Arizona State University · GPA **4.00**
+- 🏅 **FOCP** (FinOps Certified Practitioner) · **Certified Scrum Master (CSM)**
+- ♟️ Founder @ **SmartKid Academy** — coached **200+** chess students · USCF Rated **1792**
+- 📍 Based in **San Francisco, CA** — open to new opportunities
 
-<a href="https://github.com/Rikinshah787?tab=followers"><img src="https://img.shields.io/github/followers/Rikinshah787?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=111111&color=00ff88" alt="GitHub followers" /></a>
-<a href="https://heylunem.com"><img src="https://img.shields.io/badge/NOW_BUILDING-HEYLUNEM.COM-00ff88?style=for-the-badge&labelColor=111111" alt="Now building Heylunem" /></a>
+---
 
-</div>
+### 🚀 Featured Projects
+
+| Project | What it does |
+|---|---|
+| 🚀 **[Heylunem.com](https://heylunem.com)** · _building_ | My latest venture — in active development, launching soon |
+| 🧩 **[JobGrid](https://jobgrid.vercel.app)** | Browser extension unifying 18+ job boards into one dashboard — **350+ downloads** |
+| 🎛️ **IBM Watson Orchestration** | Modular AI platform coordinating 4 autonomous agents — **80%** faster company insights |
+| 📄 **[LLMResume](https://github.com/Rikinshah787/llmresume)** | Flask ATS resume optimizer — PRO mode (Groq LLM) & SMART rule-based keyword injection |
+| 📬 **ReachAI** | Multi-agent outbound engine — Groq Llama 3.1 + Hunter.io + SMTP with a live dashboard |
+| 🔔 **MailAlarm** | IMAP inbox watcher that triggers Twilio voice calls for high-priority senders |
+| 🧬 **AgentOS / ClawArmy** | Multi-LLM orchestration with shared memory & emergent, supervisor-free coordination |
+| 🌐 **[TechPortfolio](https://shahrikin.vercel.app)** | 3D portfolio — React · TypeScript · Three.js · GSAP · Groq-powered AI avatar |
+
+---
+
+### 🛠️ Tech Stack
+
+**FinOps &amp; Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![FinOps](https://img.shields.io/badge/FinOps-2ECC71?style=flat-square&logoColor=white)
+
+**Languages &amp; Data**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**AI &amp; Analytics**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
+
+**PM &amp; Agile**  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-2ECC71?style=flat-square&logoColor=white)
+
+**SAP &amp; Enterprise**  
+![SAP](https://img.shields.io/badge/SAP_BW%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Rikinshah787?tab=followers"><img src="https://img.shields.io/github/followers/Rikinshah787?style=for-the-badge&logo=github&label=Followers&labelColor=0a0f0d&color=2ecc71" alt="Followers"/></a>
+  <a href="https://heylunem.com"><img src="https://img.shields.io/badge/Building-Heylunem.com-2ecc71?style=for-the-badge&labelColor=0a0f0d" alt="Building Heylunem"/></a>
+  <a href="https://github.com/Rikinshah787?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-2ecc71?style=for-the-badge&logo=github&labelColor=0a0f0d" alt="Repositories"/></a>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Rikinshah787&hide_border=true&background=0a0f0d&stroke=2ecc71&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Certifications
+
+`FOCP – FinOps Certified Practitioner` · `Certified Scrum Master (CSM)` · `AWS Cloud Architecting` · `AWS Cloud Operations` · `Databricks Fundamentals` · `SAP Fundamentals` · `GenAI in Project Management`
+
+---
+
+<p align="center"><i>💡 Turning complex systems into clean, useful products — one commit at a time.</i></p>
