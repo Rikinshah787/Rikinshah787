@@ -30,7 +30,8 @@
 
 | Project | What it does |
 |---|---|
-| 🚀 **[Heylunem.com](https://heylunem.com)** · _building_ | My latest venture — in active development, launching soon |
+| 🌐 **[dotpals](https://dotpals.vercel.app)** · _building_ | My latest OS — in active development |
+| 🚀 **[Heylunem.com](https://heylunem.com)** · _building_ | Fun Project |
 | 🧩 **[JobGrid](https://jobgrid.vercel.app)** | Browser extension unifying 18+ job boards into one dashboard — **350+ downloads** |
 | 🎛️ **IBM Watson Orchestration** | Modular AI platform coordinating 4 autonomous agents — **80%** faster company insights |
 | 📄 **[LLMResume](https://github.com/Rikinshah787/llmresume)** | Flask ATS resume optimizer — PRO mode (Groq LLM) & SMART rule-based keyword injection |
